@@ -1,0 +1,10 @@
+{
+    "name": "Clash of Clans por Programador Aventureiro",
+    "short_name": "Clash of Clans",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "description": "Card do jogo Clash of Clans.",
+    "orientation": "natural"
+}
